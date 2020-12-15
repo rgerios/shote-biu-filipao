@@ -1,2 +1,8 @@
-# shote-biu-filipao
-Repositorio de interação entre os tres mosqueteiros para estudos
+# Repositório de estudos!!!
+
+Este respositorio tem o objetivo de armazenas codigos de estudos gerados por:
+1. Filipão
+2. Biu
+3. Shotinho
+
+
